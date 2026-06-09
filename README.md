@@ -2,7 +2,7 @@
 
 ## Live Demo
 Play the game here:  
-https://gopika-014.github.io/Projects/
+https://gopika-014.github.io/ROCK_PAPER_SCISSORS_GAME/
 
 ---
 
